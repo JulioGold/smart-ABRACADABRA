@@ -1,0 +1,24 @@
+{
+    "name": "smart-abracadabra",
+    "version": "0.0.1",
+    "description": "Just for fun",
+    "main": "smart-ABRACADABRA.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JulioGold/smart-ABRACADABRA.git"
+    },
+    "keywords": [
+        "ABRACADABRA",
+        "fun",
+        "joke"
+    ],
+    "author": "Julio Goldschmidt",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/JulioGold/smart-ABRACADABRA/issues"
+    },
+    "homepage": "https://github.com/JulioGold/smart-ABRACADABRA"
+}
